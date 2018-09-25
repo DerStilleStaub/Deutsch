@@ -1,0 +1,7 @@
+lieben		国家
+leben		
+lihrer		教师
+gut			好，棒
+tag    		你，您
+morgen		早上
+abend		晚上
