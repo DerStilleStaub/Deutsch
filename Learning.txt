@@ -1,7 +1,85 @@
-lieben		国家
-leben		
-lihrer		教师
-gut			好，棒
-tag    		你，您
-morgen		早上
-abend		晚上
+------------	通用称呼   ------------
+papa			爸爸
+mutter			妈妈
+lihrer			教师
+land			国家
+berg			山脉
+------------	指代称呼   ------------
+du				你
+name			名字
+gast			客人
+mann			男人
+hund			狗
+kuh				牛
+bonn			波恩
+------------	食物饮品   ------------
+tee				茶
+kaffee			咖啡
+bear			啤酒
+------------	食物食品   ------------
+wurst			香肠
+kuchen			甜点
+------------	时间指代   ------------
+tag				白天,天
+morgen			早上
+abend			晚上
+------------	日常用品   ------------
+haar			头发
+trasse			杯子,咖啡杯
+bett			床,被褥
+lampe			灯具
+bad				浴室
+------------	工具用品   ------------
+koffer			路基
+boot			船
+------------	社会产物   ------------
+laden			店铺
+------------	社会行为   ------------
+leben			居住
+danke			谢谢
+typ				类型,型号
+------------	事物感官   ------------
+leacker			美味
+lieben			热爱,喜爱
+lust			乐趣,兴趣
+nett			和蔼的
+gut				好,棒
+lahm			跛的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guten morgen		早上好
+Guten tag			您好
+Guten abend			晚上好
